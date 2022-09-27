@@ -1,0 +1,8 @@
+site_name: FDF Docs
+site_url: https://example.com
+nav:
+    - Home: index.md
+    - Structure:  structure.md
+    - About: about.md
+
+theme: readthedocs
