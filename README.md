@@ -1,11 +1,11 @@
 # `Fdf`
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/iflis7/fdf?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/iflis7/fdf?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/iflis7/fdf?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/iflis7/fdf?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/iflis7/fdf?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/iflis7/fdf_?color=lightblue" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/iflis7/fdf_?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/iflis7/fdf_?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/iflis7/fdf_?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/iflis7/fdf_?color=green" />
 </p>
 
 This project is about representing a landscape as a 3D object
