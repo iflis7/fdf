@@ -1,12 +1,35 @@
-# `Fdf`
+# `FDF`
+
+This project is about representing a landscape as a 3D object in which all surfaces are outlined in lines. `Version: 2`.<br>
+
+
+<h1 align="center">
+	42cursus' libft
+</h1>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/iflis7/fdf_?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/iflis7/fdf_?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/iflis7/fdf_?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/iflis7/fdf_?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/iflis7/fdf_?color=green" />
+	<b><i>Development repo for 42cursus FDF project</i></b><br>
+	For further information about 42cursus and its projects, please refer to <a href="https://github.com/iflis7/libft"><b>42cursus repo</b></a>.
 </p>
+
+<p align="center">
+    <a href="https://www.cprogramming.com/"><img alt="Made with C" src="https://img.shields.io/badge/Made%20with-C-1f425f.svg"/></a>
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/iflis7/get_next_line?color=lightblue" />
+    <img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/iflis7/get_next_line?color=critical" />
+    <img alt="Code language count" src="https://img.shields.io/github/languages/count/iflis7/get_next_line?color=yellow" />
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/iflis7/get_next_line?color=blue" />
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/iflis7/get_next_line?color=green" />
+</p>
+
+<h3 align="center">
+	<a href="#%EF%B8%8F-about">About</a>
+	<span> · </span>
+	<a href="#-index">Index</a>
+	<span> · </span>
+	<a href="#%EF%B8%8F-usage">Usage</a>
+	<span> · </span>
+	<a href="#-testing">Testing</a>
+</h3>
 
 This project is about representing a landscape as a 3D object
 in which all surfaces are outlined in lines. `Version: 2`.<br>
